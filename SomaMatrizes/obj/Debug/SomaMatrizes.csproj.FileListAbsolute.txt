@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\SomaMatrizes\SomaMatrizes\bin\Debug\SomaMatrizes.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\SomaMatrizes\SomaMatrizes\bin\Debug\SomaMatrizes.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\SomaMatrizes\SomaMatrizes\bin\Debug\SomaMatrizes.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\SomaMatrizes\SomaMatrizes\obj\Debug\SomaMatrizes.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\SomaMatrizes\SomaMatrizes\obj\Debug\SomaMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\SomaMatrizes\SomaMatrizes\obj\Debug\SomaMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\SomaMatrizes\SomaMatrizes\obj\Debug\SomaMatrizes.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\SomaMatrizes\SomaMatrizes\obj\Debug\SomaMatrizes.pdb
